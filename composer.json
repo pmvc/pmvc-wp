@@ -1,0 +1,9 @@
+{
+  "require": {
+    "pmvc-plugin/xml": "*",
+    "pmvc-plugin/asset": "*",
+    "pmvc-plugin/debug": "*",
+    "pmvc-plugin/debug_store": "*",
+    "pmvc-plugin/debug_console": "*"
+  }
+}
